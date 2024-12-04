@@ -14,13 +14,13 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this data as: 
 
-Yount, Ryan, Jacob Dodson, and Adriane Moura. Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly. High-Rate-SHM-Working-Group. Accessed at "Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly."
+Roberts, Trotter, Jacob Dodson, and Adriane Moura. Dataset 10 circular PCB with repeated shock loading. High-Rate-SHM-Working-Group. 
 
 #### Bibtex
 
-@Misc{YountDataset9Repeated,  
-  author = {Ryan Yount and Jacob Dodson and Adriane Moura},  
-  title  = {Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly},  
+@Misc{RobertsDataset10Circular,  
+  author = {Trotter Roberts and Jacob Dodson and Adriane Moura},  
+  title  = {Dataset 10 circular PCB with repeated shock loading},  
   groups = {High-Rate-SHM-Working-Group},  
-  url    = {Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly},  
+  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-10-circular-PCB-with-repeated-shock-loading},  
 }  
