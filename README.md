@@ -1,5 +1,5 @@
 # Dataset-10-circular-PCB-with-repeated-shock-loading
-Dataset 10 circular PCB with repeated shock loading
+Data for a circular PCB with repeated shock loading
 
 
 
