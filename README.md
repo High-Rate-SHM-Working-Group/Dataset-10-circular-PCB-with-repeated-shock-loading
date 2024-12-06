@@ -10,7 +10,7 @@ Figure 1: The shock test system and specimen used in this work, showing: (a) the
 Figure 2: The acceleration data measured over time at varying drop heights, showing: (a) the acceleration of the base, and; (b) the acceleration of the board.
 
 
-![gauges](https://github.com/user-attachments/assets/1eb66209-a1ff-4dcc-b3bb-5237f413574a)
+![strain](https://github.com/user-attachments/assets/61a60383-022d-4dd9-b633-78f91bb48aa0)
 Figure 3: The strain data measured over time at varying drop heights, showing: (a) the strain at the top of the board, and; (b) the strain at the bottom of the board.
 
 
