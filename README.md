@@ -11,10 +11,10 @@ Figure 2: The acceleration data measured over time at varying drop heights, show
 Figure 3: The strain data measured over time at varying drop heights, showing: (a) the strain at the top of the board, and; (b) the strain at the bottom of the board.
 
 ![Mode Shapes](https://github.com/user-attachments/assets/6f173b9b-7bd6-4b0e-ad6f-11b5b0fe42d3)
-The simulated mode shapes and corresponding natural frequencies of the board, showing: (a) the first mode; (b) the second mode; (c) the third mode, and; (d) the fourth mode.
+Figure 4: The simulated mode shapes and corresponding natural frequencies of the board, showing: (a) the first mode; (b) the second mode; (c) the third mode, and; (d) the fourth mode.
 
 ![stress_strain](https://github.com/user-attachments/assets/317bf91b-93ee-48ed-b8b8-19f13fa83fdc)
-The simulated mechanical response, showing: (a) the stress distribution, and; (b) the strain distribution across the printed circuit board.
+Figure 5: The simulated mechanical response, showing: (a) the stress distribution, and; (b) the strain distribution across the printed circuit board.
 
 ## Licensing and Citation
 
