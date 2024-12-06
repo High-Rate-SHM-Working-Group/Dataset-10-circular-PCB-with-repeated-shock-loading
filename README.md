@@ -2,11 +2,19 @@
 Data for a circular PCB with repeated shock loading
 
 ![experiment](https://github.com/user-attachments/assets/db903573-f7fa-4f88-a12d-03d131b30531)
-The shock test system and specimen used in this work, showing: (a) the drop tower used for testing, and; (b) the printed circuit board with onboard components and sensors.
+Figure 1: The shock test system and specimen used in this work, showing: (a) the drop tower used for testing, and; (b) the printed circuit board with onboard components and sensors.
 
+![acceleration](https://github.com/user-attachments/assets/5456c1c7-0da5-4f0e-9d18-a6111c492c97)
+Figure 2: The acceleration data measured over time at varying drop heights, showing: (a) the acceleration of the base, and; (b) the acceleration of the board.
 
+![gauges](https://github.com/user-attachments/assets/1eb66209-a1ff-4dcc-b3bb-5237f413574a)
+Figure 3: The strain data measured over time at varying drop heights, showing: (a) the strain at the top of the board, and; (b) the strain at the bottom of the board.
 
+![Mode Shapes](https://github.com/user-attachments/assets/6f173b9b-7bd6-4b0e-ad6f-11b5b0fe42d3)
+The simulated mode shapes and corresponding natural frequencies of the board, showing: (a) the first mode; (b) the second mode; (c) the third mode, and; (d) the fourth mode.
 
+![stress_strain](https://github.com/user-attachments/assets/317bf91b-93ee-48ed-b8b8-19f13fa83fdc)
+The simulated mechanical response, showing: (a) the stress distribution, and; (b) the strain distribution across the printed circuit board.
 
 ## Licensing and Citation
 
