@@ -1,6 +1,9 @@
 # Dataset-10-circular-PCB-with-repeated-shock-loading
 Data for a circular PCB with repeated shock loading
 
+![experiment](https://github.com/user-attachments/assets/db903573-f7fa-4f88-a12d-03d131b30531)
+The shock test system and specimen used in this work, showing: (a) the drop tower used for testing, and; (b) the printed circuit board with onboard components and sensors.
+
 
 
 
