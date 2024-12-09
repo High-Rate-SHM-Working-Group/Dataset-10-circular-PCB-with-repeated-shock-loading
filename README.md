@@ -17,10 +17,6 @@ Figure 3: The strain data measured over time at varying drop heights, showing: (
 ![Mode Shapes](https://github.com/user-attachments/assets/6f173b9b-7bd6-4b0e-ad6f-11b5b0fe42d3)
 Figure 4: The simulated mode shapes and corresponding natural frequencies of the board, showing: (a) the first mode; (b) the second mode; (c) the third mode, and; (d) the fourth mode.
 
-
-![stress_strain](https://github.com/user-attachments/assets/317bf91b-93ee-48ed-b8b8-19f13fa83fdc)
-Figure 5: The simulated mechanical response, showing: (a) the stress distribution, and; (b) the strain distribution across the printed circuit board.
-
 ## Licensing and Citation
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License [cc-by-sa 4.0].
